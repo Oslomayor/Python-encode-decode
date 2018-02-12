@@ -30,7 +30,7 @@ Python 中的编码与解码
 
 ### 2. 使用示例
 
-1. 编码
+#### 1. 编码
 
    UTF-8 编码
 
@@ -61,7 +61,7 @@ Python 中的编码与解码
    b'\xb4\xfa\xc2\xeb code'
    ```
 
-2. 解码
+#### 2. 解码
 
    设置 str 的内容为 '代码 code'
 
@@ -111,4 +111,4 @@ Python 中的编码与解码
 
 ### 3. 源文件
 
- 	查看 [**Python 解码与编码.py**](https://github.com/Oslomayor/Python-encode-decode/blob/master/Python%20%E8%A7%A3%E7%A0%81%E4%B8%8E%E7%BC%96%E7%A0%81.py)
+​	查看 [Python 解码与编码.py](https://github.com/Oslomayor/Python-encode-decode/blob/master/Python%20%E8%A7%A3%E7%A0%81%E4%B8%8E%E7%BC%96%E7%A0%81.py)

@@ -3,9 +3,9 @@ Python 中的编码与解码
 
 #### 1:42 PM, Feb 12th, 2018
 
-##### 1. 原理说明
+### 1. 原理说明
 
-##### Encode 和 Decode
+### Encode 和 Decode
 
 1. 字符串通过 encode() 方法，__编码__成字节流
 
@@ -28,7 +28,7 @@ Python 中的编码与解码
    <class 'bytes'>
    ```
 
-##### 2. 使用示例
+### 2. 使用示例
 
 1. 编码
 
@@ -109,7 +109,7 @@ Python 中的编码与解码
    GBK解码:代码 code
    ```
 
-##### 3. 源文件
+### 3. 源文件
 
-​	查看 [**Python 解码与编码.py**](https://github.com/Oslomayor/Python-encode-decode/blob/master/Python%20%E8%A7%A3%E7%A0%81%E4%B8%8E%E7%BC%96%E7%A0%81.py)
+?	查看 [**Python 解码与编码.py**](https://github.com/Oslomayor/Python-encode-decode/blob/master/Python%20%E8%A7%A3%E7%A0%81%E4%B8%8E%E7%BC%96%E7%A0%81.py)
 
